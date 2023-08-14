@@ -10,3 +10,6 @@ Fix [1-print_square.js](1-print_square.js) to print a square of the given decima
 
 #### Task 2: Sort
 Fix [2-sort.rb](2-sort.rb) to correctly sort its arguments
+
+#### Task 3: User password
+Fix [3-user.py](3-user.py) so that no error message is printed.
