@@ -13,3 +13,6 @@ Fix [2-sort.rb](2-sort.rb) to correctly sort its arguments
 
 #### Task 3: User password
 Fix [3-user.py](3-user.py) so that no error message is printed.
+
+#### Task 4: Double linked list
+Fix the implementation of a Double linked list in C: [4-delete_dnodeint/](4-delete_dnodeint/).
