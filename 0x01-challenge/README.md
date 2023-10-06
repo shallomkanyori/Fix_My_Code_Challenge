@@ -10,3 +10,6 @@ Fix implementation of a class that represents a square in [square.py](square.py)
 
 #### Task 2: Step 2: User model
 Fix implementation of the class `User` in [user.py](user.py).
+
+#### Task 3: Blog access
+Fix Rails blog codebase [blog/](blog/) to allow show access on blog posts.
