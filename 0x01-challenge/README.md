@@ -7,3 +7,6 @@ Fix Flask api code in [status_server/](status_server/) to correctly output the s
 
 #### Task 1: My square
 Fix implementation of a class that represents a square in [square.py](square.py).
+
+#### Task 2: Step 2: User model
+Fix implementation of the class `User` in [user.py](user.py).
