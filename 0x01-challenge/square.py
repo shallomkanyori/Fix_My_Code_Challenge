@@ -11,13 +11,6 @@ class Square():
         """Initialize a square"""
 
         for key, value in kwargs.items():
-            if key == "width":
-                if type(value) is not int:
-                    raise TypeError("Width must be an integer")
-
-                if value < 0:
-                    raise ValueError("Width must be >= 0")
-
             setattr(self, key, value)
 
     def area_of_my_square(self):
